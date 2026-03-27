@@ -1,0 +1,1 @@
+git rebase --abort es útil cuando estás en medio de un rebase y algo sale mal o no deseas continuar con los cambios. Esto devolverá el repositorio a su estado original antes del rebase.

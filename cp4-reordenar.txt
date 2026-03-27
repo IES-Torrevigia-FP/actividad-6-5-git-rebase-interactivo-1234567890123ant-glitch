@@ -1,0 +1,16 @@
+7ae2409 (HEAD -> main) Añade archivo nuevo1
+7234ce9 Añade archivo nuevo
+1807acd Agrupa cambios de líneas extra en app.
+ee3eed4 Commit 1: versión inicial
+fef5e79 (origin/main, origin/HEAD) add deadline
+bb807e3 Initial commit
+
+
+eb1c2d2 (HEAD -> main) Agrupa cambios de líneas extra en app.
+688e255 Añade archivo nuevo1
+db87db0 Añade archivo nuevo
+ee3eed4 Commit 1: versión inicial
+fef5e79 (origin/main, origin/HEAD) add deadline
+bb807e3 Initial commit
+
+Reordenar commits es útil cuando quieres asegurarte de que los cambios se presenten en un orden lógico o cuando necesitas modificar el historial antes de un pull request.

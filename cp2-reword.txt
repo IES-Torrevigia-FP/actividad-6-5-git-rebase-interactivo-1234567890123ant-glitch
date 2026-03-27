@@ -1,0 +1,8 @@
+6d6b71b (HEAD -> main) otro commit
+af4470b Añade línea extra 2 en app
+478a423 Añade línea extra 1 en app
+ee3eed4 Commit 1: versión inicial
+fef5e79 (origin/main, origin/HEAD) add deadline
+bb807e3 Initial commit
+
+reword permite cambiar el mensaje de un commit, pero no afecta al contenido del commit en sí.
